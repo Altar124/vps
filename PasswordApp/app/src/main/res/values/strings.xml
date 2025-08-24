@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PasswordApp</string>
+    <string name="welcome">Selamat datang! Aplikasi terkunci dengan password.</string>
+    <string name="enter_password">Masukkan Password</string>
+    <string name="password_hint">Password</string>
+    <string name="ok">OK</string>
+    <string name="exit">Keluar</string>
+    <string name="incorrect_password">Password salah</string>
+    <string name="access_granted">Akses diberikan</string>
+    <!-- Default password stored in resources for demo purposes only. Change before release. -->
+    <string name="app_password">1234</string>
+</resources>
+
